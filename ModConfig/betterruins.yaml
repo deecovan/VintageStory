@@ -1,0 +1,305 @@
+version: 7
+
+
+############
+## Добыча ##
+############
+
+# Позволяет изменять настройки и дополнения добычи в BetterRuins. Установите значение 0, чтобы полностью отключить.
+loot: 1 # from 0 to 10 (default: 1) 
+# Указывает вероятность генерации блоков метеоритов в BetterRuins. Установите 100%, чтобы метеориты появлялись во всех подходящих блоках, или уменьшите процент для регулировки их редкости. Установите 0%, чтобы полностью отключить метеориты.
+meteorvalue: 25 # from 0 to 100 (default: 25) 
+
+
+#############
+## Легенды ##
+#############
+
+# Позволяет включить или отключить генерацию контента лора в BetterRuins. Отключите, чтобы предотвратить генерацию.
+lore: true #  (default: True) 
+
+
+#################################
+## Общая вероятность генерации ##
+#################################
+
+# Влияет на вероятность генерации всех структур (кроме деревень).
+structures_spawn_chance: 1 # from 0 to 100 (default: 1) 
+# Влияет на вероятность генерации всех деревень, которые представляют собой группы мелких структур, расположенных близко друг к другу (не отдельные структуры).
+villages_spawn_chance: 1 # from 0 to 100 (default: 1) 
+
+
+##############################
+## Глобальные мегаструктуры ##
+##############################
+
+# Указывает минимальное расстояние, которое эта структура должна поддерживать от других структур в своей группе, измеряемое в блоках.
+megastructures_min_distance: 6500 # from 0 to 40000 (default: 6500) 
+
+
+##################################
+## Мегаструктура: Сегмент стены ##
+##################################
+
+# betterruins:universal_spawnchance_comment
+01wallsegment_spawn_chance: 1 # from 0 to 100 (default: 1) 
+
+
+#######################################
+## Мегаструктура: Скалистая формация ##
+#######################################
+
+# betterruins:universal_spawnchance_comment
+02rockformation_spawn_chance: 1 # from 0 to 100 (default: 1) 
+
+
+####################################
+## Мегаструктура: Нордический дом ##
+####################################
+
+# betterruins:universal_spawnchance_comment
+03nordichouse_spawn_chance: 1 # from 0 to 100 (default: 1) 
+
+
+###############################
+## Мегаструктура: Висингборг ##
+###############################
+
+# betterruins:universal_spawnchance_comment
+04visingborg_spawn_chance: 1 # from 0 to 100 (default: 1) 
+
+
+########################################
+## Мегаструктура: Руины замка Катнуар ##
+########################################
+
+# betterruins:universal_spawnchance_comment
+05catnoirscastleruin_spawn_chance: 1 # from 0 to 100 (default: 1) 
+
+
+################################################
+## Мегаструктура: Разрушенная большая церковь ##
+################################################
+
+# betterruins:universal_spawnchance_comment
+06destroyedlargechurch_spawn_chance: 1 # from 0 to 100 (default: 1) 
+
+
+#####################################
+## Мегаструктура: Замок Вольфстоун ##
+#####################################
+
+# betterruins:universal_spawnchance_comment
+07wolfstonecastle_spawn_chance: 1 # from 0 to 100 (default: 1) 
+
+
+##########################
+## Мегаструктура: Оазис ##
+##########################
+
+# betterruins:universal_spawnchance_comment
+08oasis_spawn_chance: 1 # from 0 to 100 (default: 1) 
+# Указывает максимальную температуру, при которой эта структура может быть сгенерирована. Структуры не будут генерироваться, если температура превышает это значение.
+08oasis_max_temp: 39 # from -60 to 60 (default: 39) 
+# Указывает минимальную температуру, необходимую для генерации этой структуры. Структуры не будут генерироваться, если температура ниже этого значения.
+08oasis_min_temp: 25 # from -60 to 60 (default: 25) 
+
+
+#############################################
+## Мегаструктура: Башня утраченной надежды ##
+#############################################
+
+# betterruins:universal_spawnchance_comment
+09forlornhopetower_spawn_chance: 1 # from 0 to 100 (default: 1) 
+# Указывает максимальную температуру, при которой эта структура может быть сгенерирована. Структуры не будут генерироваться, если температура превышает это значение.
+09forlornhopetower_max_temp: -4 # from -60 to 60 (default: -4) 
+# Указывает минимальную температуру, необходимую для генерации этой структуры. Структуры не будут генерироваться, если температура ниже этого значения.
+09forlornhopetower_min_temp: -30 # from -60 to 60 (default: -30) 
+
+
+###################################
+## Мегаструктура: Огромный собор ##
+###################################
+
+# betterruins:universal_spawnchance_comment
+10giantcathedral_spawn_chance: 1 # from 0 to 100 (default: 1) 
+# Указывает максимальную температуру, при которой эта структура может быть сгенерирована. Структуры не будут генерироваться, если температура превышает это значение.
+10giantcathedral_max_temp: -7 # from -60 to 60 (default: -7) 
+# Указывает минимальную температуру, необходимую для генерации этой структуры. Структуры не будут генерироваться, если температура ниже этого значения.
+10giantcathedral_min_temp: -30 # from -60 to 60 (default: -30) 
+
+
+###################################
+## Мегаструктура: Торговый центр ##
+###################################
+
+# betterruins:universal_spawnchance_comment
+11shoppingcentre_spawn_chance: 1 # from 0 to 100 (default: 1) 
+
+
+#########################################
+## Мегаструктура: Подземная библиотека ##
+#########################################
+
+# betterruins:universal_spawnchance_comment
+12undergroundlibrary_spawn_chance: 1 # from 0 to 100 (default: 1) 
+
+
+############################
+## Мегаструктура: Особняк ##
+############################
+
+# betterruins:universal_spawnchance_comment
+14mansion_spawn_chance: 1 # from 0 to 100 (default: 1) 
+
+
+############################
+## Мегаструктура: Олдбург ##
+############################
+
+# betterruins:universal_spawnchance_comment
+15auldburg_spawn_chance: 1 # from 0 to 100 (default: 1) 
+
+
+######################################
+## Мегаструктура: Нормандский замок ##
+######################################
+
+# betterruins:universal_spawnchance_comment
+16normancastle_spawn_chance: 1 # from 0 to 100 (default: 1) 
+
+
+############################
+## Мегаструктура: Акведук ##
+############################
+
+# betterruins:universal_spawnchance_comment
+17aqueduct_spawn_chance: 1 # from 0 to 100 (default: 1) 
+
+
+###################
+## Транслокаторы ##
+###################
+
+# betterruins:universal_spawnchance_comment
+translocatorruins_spawn_chance: 1 # from 0 to 100 (default: 1) 
+# Указывает минимальное расстояние, которое эта структура должна поддерживать от других структур в своей группе, измеряемое в блоках.
+translocatorruins_min_distance: 1600 # from 0 to 40000 (default: 1600) 
+
+
+#############
+## Деревни ##
+#############
+
+# betterruins:universal_spawnchance_comment
+vsvillage_spawn_chance: 1 # from 0 to 100 (default: 1) 
+# betterruins:universal_spawnchance_comment
+forestvillage_spawn_chance: 1 # from 0 to 100 (default: 1) 
+# betterruins:universal_spawnchance_comment
+desertvillage_spawn_chance: 1 # from 0 to 100 (default: 1) 
+# betterruins:universal_spawnchance_comment
+prisonvillage_spawn_chance: 1 # from 0 to 100 (default: 1) 
+# betterruins:universal_spawnchance_comment
+coloredvillage_spawn_chance: 1 # from 0 to 100 (default: 1) 
+# betterruins:universal_spawnchance_comment
+ogdredvillage_spawn_chance: 1 # from 0 to 100 (default: 1) 
+# betterruins:universal_spawnchance_comment
+femursnappervillage_spawn_chance: 1 # from 0 to 100 (default: 1) 
+
+
+###########
+## Руины ##
+###########
+
+# betterruins:universal_spawnchance_comment
+largeruins_spawn_chance: 1 # from 0 to 100 (default: 1) 
+# betterruins:universal_spawnchance_comment
+mediumruins_spawn_chance: 1 # from 0 to 100 (default: 1) 
+# betterruins:universal_spawnchance_comment
+desertruins_spawn_chance: 1 # from 0 to 100 (default: 1) 
+# betterruins:universal_spawnchance_comment
+surfaceunderground_spawn_chance: 1 # from 0 to 100 (default: 1) 
+# Указывает минимальное расстояние, которое эта структура должна поддерживать от других структур в своей группе, измеряемое в блоках.
+surfaceunderground_min_distance: 7500 # from 0 to 40000 (default: 7500) 
+
+
+################
+## Камни пути ##
+################
+
+# betterruins:universal_spawnchance_comment
+waystones_spawn_chance: 1 # from 0 to 100 (default: 1) 
+# Указывает минимальное расстояние, которое эта структура должна поддерживать от других структур в своей группе, измеряемое в блоках.
+waystones_min_distance: 5000 # from 0 to 40000 (default: 5000) 
+
+
+##############
+## Монолиты ##
+##############
+
+# betterruins:universal_spawnchance_comment
+monolith_spawn_chance: 1 # from 0 to 100 (default: 1) 
+# Указывает минимальное расстояние, которое эта структура должна поддерживать от других структур в своей группе, измеряемое в блоках.
+monolith_min_distance: 40000 # from 0 to 40000 (default: 40000) 
+
+
+################
+## Подземелья ##
+################
+
+# betterruins:universal_spawnchance_comment
+underground_spawn_chance: 1 # from 0 to 100 (default: 1) 
+
+
+############
+## Могилы ##
+############
+
+# betterruins:universal_spawnchance_comment
+graves_spawn_chance: 1 # from 0 to 100 (default: 1) 
+# Указывает минимальное расстояние, которое эта структура должна поддерживать от других структур в своей группе, измеряемое в блоках.
+graves_min_distance: 850 # from 0 to 40000 (default: 850) 
+
+
+####################################
+## Вероятность генерации чертежей ##
+####################################
+
+# Определяет, можно ли дублировать чертежи с использованием рецептов крафта для обмена между игроками. Включите, чтобы разрешить дублирование через крафт.
+schematic_crafting: false #  (default: False) 
+# betterruins:universal_schematic_comment
+schematic_door: 2 # from 0 to 1000 (default: 2) 
+# betterruins:universal_schematic_comment
+schematic_bed: 2 # from 0 to 1000 (default: 2) 
+# betterruins:universal_schematic_comment
+schematic_chest: 2 # from 0 to 1000 (default: 2) 
+# betterruins:universal_schematic_comment
+schematic_crate: 2 # from 0 to 1000 (default: 2) 
+# betterruins:universal_schematic_comment
+schematic_gaslamp: 2 # from 0 to 1000 (default: 2) 
+# betterruins:universal_schematic_comment
+schematic_jonaslamp: 2 # from 0 to 1000 (default: 2) 
+# betterruins:universal_schematic_comment
+schematic_banner: 2 # from 0 to 1000 (default: 2) 
+# betterruins:universal_schematic_comment
+schematic_table: 2 # from 0 to 1000 (default: 2) 
+# betterruins:universal_schematic_comment
+schematic_stone: 2 # from 0 to 1000 (default: 2) 
+# betterruins:universal_schematic_comment
+schematic_wood: 2 # from 0 to 1000 (default: 2) 
+# betterruins:universal_schematic_comment
+schematic_ancient: 2 # from 0 to 1000 (default: 2) 
+# betterruins:universal_schematic_comment
+schematic_candle: 2 # from 0 to 1000 (default: 2) 
+# betterruins:universal_schematic_comment
+schematic_road: 2 # from 0 to 1000 (default: 2) 
+# betterruins:universal_schematic_comment
+schematic_roofing: 2 # from 0 to 1000 (default: 2) 
+# betterruins:universal_schematic_comment
+schematic_palisade: 2 # from 0 to 1000 (default: 2) 
+# betterruins:universal_schematic_comment
+schematic_mechanical: 1 # from 0 to 1000 (default: 1) 
+# betterruins:universal_schematic_comment
+schematic_jonaspart: 1 # from 0 to 1000 (default: 1) 
+# betterruins:universal_schematic_comment
+schematic_jonasassembly: 1 # from 0 to 1000 (default: 1) 
