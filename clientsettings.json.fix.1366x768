@@ -226,6 +226,7 @@
     "force48khzHRTFaudio": true,
     "fxaa": false,
     "autoChat": true,
+    "autoChatOpenSelected": true,
     "bloom": false,
     "skipNvidiaProfileCheck": false,
     "scaleScreenshot": false,
@@ -264,7 +265,9 @@
   },
   "stringListSettings": {
     "multiplayerservers": [],
-    "disabledMods": [],
+    "disabledMods": [
+      "artofgrowing@0.1.1"
+    ],
     "dialogPositions": [],
     "modPaths": [
       "Mods",
