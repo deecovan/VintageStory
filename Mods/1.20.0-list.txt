@@ -3,15 +3,12 @@
 
  Directory of C:\Projects\VintageStory\Mods
 
-16-Jan-25  13:43    <DIR>          .
-16-Jan-25  13:43    <DIR>          ..
+18-Jan-25  10:13    <DIR>          .
+18-Jan-25  10:13    <DIR>          ..
 25-Dec-24  12:21                22 .gitignore
-30-Dec-24  21:00               516 1.20.0-rc6.landform.list.txt
-16-Jan-25  17:00                 0 1.20.0-rc6.minesconquest.list.txt
-10-Jan-25  15:12               618 1.20.0-rc6.minespretty.list.txt
-26-Dec-24  14:32               187 1.20.0-rc6.minimal.list.txt
-28-Dec-24  15:49               381 1.20.0-rc6.more.list.txt
+18-Jan-25  10:13                 0 1.20.0-list.txt
 16-Jan-25  13:42         1,407,213 ArtOfGrowing_0.1.1.zip
+18-Jan-25  10:09         1,953,719 Auto Map Markers 4.0.1 (Vintagestory 1.20).zip
 25-Dec-24  12:43           179,530 bags_0.1.30.zip
 15-Jan-25  11:17            30,562 betterloot1.1.0.zip
 14-Jan-25  16:58        22,626,496 BetterRuinsv0.4.5.zip
@@ -32,11 +29,13 @@
 28-Dec-24  15:48           247,667 paxel_v1.6.0.zip
 25-Dec-24  20:26            23,349 pomshadercache_v1.1.2-rc.1.zip
 25-Dec-24  20:32         2,763,338 primitivesurvival_3.7.4.zip
+18-Jan-25  10:08           483,851 projectiletracker_1.0.1.zip
 30-Dec-24  19:56            76,197 simplefootstepsredux.zip
 25-Dec-24  12:41             9,260 stepupcontinued_0.0.1.zip
 01-Jan-25  11:27           211,124 undergroundmines_1.0.4.zip
+18-Jan-25  10:10           299,614 vanillamoremolds_1.1.0.zip
 30-Dec-24  19:56           227,508 wildfarmingrevival_1.3.4.zip
 30-Dec-24  19:56           170,040 XLibPatch.zip
 30-Dec-24  19:56           320,907 XSkillsPatch_v1.0.4.zip
-              33 File(s)     32,891,469 bytes
-               2 Dir(s)  61,995,241,472 bytes free
+              32 File(s)     35,626,951 bytes
+               2 Dir(s)  70,796,107,776 bytes free
