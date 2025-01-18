@@ -1,0 +1,35 @@
+{
+  "1234567890": {
+    "UnlearnPoints": 0.0,
+    "UnlearnCooldown": 0.0,
+    "Sparring": false,
+    "Skills": {
+      "survival": {
+        "Level": 1,
+        "Experience": 0.9829917,
+        "Abilities": {}
+      },
+      "farming": {
+        "Level": 1,
+        "Experience": 26.77,
+        "Abilities": {}
+      },
+      "digging": {
+        "Level": 1,
+        "Experience": 1.1000001,
+        "Abilities": {}
+      },
+      "forestry": {
+        "Level": 1,
+        "Experience": 1.8299986,
+        "Abilities": {}
+      },
+      "temporaladaptation": {
+        "Level": 1,
+        "Experience": 2.2587087,
+        "Abilities": {}
+      }
+    },
+    "Knowledge": {}
+  }
+}

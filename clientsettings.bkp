@@ -170,7 +170,7 @@
     "maxAsyncCubeParticles": 40000,
     "itemCollectMode": 0,
     "mouseSmoothing": 30,
-    "mouseSensivity": 100,
+    "mouseSensivity": 150,
     "modelDataPoolMaxVertexSize": 500000,
     "modelDataPoolMaxIndexSize": 750000,
     "modelDataPoolMaxParts": 1500,
@@ -247,7 +247,7 @@
     "gammaLevel": 2.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.3349175,
+    "sepiaLevel": 0.31273603,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,
@@ -265,7 +265,9 @@
   },
   "stringListSettings": {
     "multiplayerservers": [],
-    "disabledMods": [],
+    "disabledMods": [
+      "artofgrowing@0.1.1"
+    ],
     "dialogPositions": [],
     "modPaths": [
       "Mods",

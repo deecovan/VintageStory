@@ -3,11 +3,11 @@
 
  Directory of C:\Projects\VintageStory\Mods
 
-18-Jan-25  10:13    <DIR>          .
-18-Jan-25  10:13    <DIR>          ..
+18-Jan-25  12:05    <DIR>          .
+18-Jan-25  12:05    <DIR>          ..
 25-Dec-24  12:21                22 .gitignore
-18-Jan-25  10:13                 0 1.20.0-list.txt
-16-Jan-25  13:42         1,407,213 ArtOfGrowing_0.1.1.zip
+18-Jan-25  12:05                 0 1.20.0-list.txt
+18-Jan-25  11:55           356,288 apegrapes-v1.20-1.2.0.zip
 18-Jan-25  10:09         1,953,719 Auto Map Markers 4.0.1 (Vintagestory 1.20).zip
 25-Dec-24  12:43           179,530 bags_0.1.30.zip
 15-Jan-25  11:17            30,562 betterloot1.1.0.zip
@@ -15,6 +15,7 @@
 30-Dec-24  19:56         1,477,127 BetterTradersv0.0.9.zip
 26-Dec-24  13:37            41,956 blockoverlay-4.0.2.zip
 28-Dec-24  15:48           202,160 CarryOn-1.20.0-pre_v1.8.0-pre.1.zip
+18-Jan-25  12:05           190,377 configlib_1.4.3.zip
 14-Jan-25  16:57            14,768 Conquest Landform Overhaul v1.0.0.zip
 25-Dec-24  20:28           155,755 DanaTweaks-v3.3.9.zip
 26-Dec-24  22:29            67,013 ExtraInfo-v1.9.4.zip
@@ -37,5 +38,5 @@
 30-Dec-24  19:56           227,508 wildfarmingrevival_1.3.4.zip
 30-Dec-24  19:56           170,040 XLibPatch.zip
 30-Dec-24  19:56           320,907 XSkillsPatch_v1.0.4.zip
-              32 File(s)     35,626,951 bytes
-               2 Dir(s)  70,796,107,776 bytes free
+              33 File(s)     34,766,403 bytes
+               2 Dir(s)  69,153,665,024 bytes free
