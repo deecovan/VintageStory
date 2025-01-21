@@ -3,14 +3,14 @@
 
  Directory of C:\Projects\VintageStory\Mods
 
-18-Jan-25  13:10    <DIR>          .
-18-Jan-25  13:10    <DIR>          ..
+21-Jan-25  14:27    <DIR>          .
+21-Jan-25  14:27    <DIR>          ..
 25-Dec-24  12:21                22 .gitignore
-18-Jan-25  13:11                 0 1.20.0-list.txt
+21-Jan-25  14:28                 0 1.20.0-list.txt
 18-Jan-25  11:55           356,288 apegrapes-v1.20-1.2.0.zip
 25-Dec-24  12:43           179,530 bags_0.1.30.zip
 15-Jan-25  11:17            30,562 betterloot1.1.0.zip
-14-Jan-25  16:58        22,626,496 BetterRuinsv0.4.5.zip
+21-Jan-25  13:41        23,588,471 BetterRuinsv0.4.6.zip
 30-Dec-24  19:56         1,477,127 BetterTradersv0.0.9.zip
 26-Dec-24  13:37            41,956 blockoverlay-4.0.2.zip
 28-Dec-24  15:48           202,160 CarryOn-1.20.0-pre_v1.8.0-pre.1.zip
@@ -36,5 +36,5 @@
 30-Dec-24  19:56           227,508 wildfarmingrevival_1.3.4.zip
 30-Dec-24  19:56           170,040 XLibPatch.zip
 30-Dec-24  19:56           320,907 XSkillsPatch_v1.0.4.zip
-              31 File(s)     32,622,307 bytes
-               2 Dir(s)  69,061,730,304 bytes free
+              31 File(s)     33,584,282 bytes
+               2 Dir(s)  89,325,690,880 bytes free
