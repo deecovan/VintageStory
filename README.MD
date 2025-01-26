@@ -1,8 +1,8 @@
 # VintageStory 1.20.3 GitHub repo 
 
-## 01.26 Start without Terraform Conquest mod
+## 01.26 Start without Conquest Landform Overhaul mod
 - Start DeeCovan Colored Rivers 70-200-30-200
-- Recreate seed _???_
+- Recreate seed 459679517
   - Settings in Saves/
     - deecovan colored rivers 70-200-30-200.png
     - deecovan colored rivers 70-200-30-200.txt
