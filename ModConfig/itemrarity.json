@@ -1,0 +1,111 @@
+{
+  "Rarities": {
+    "cursed": {
+      "Name": "Cursed",
+      "Color": "#606060",
+      "Rarity": 8.0,
+      "DurabilityMultiplier": 0.5,
+      "MiningSpeedMultiplier": 0.5,
+      "AttackPowerMultiplier": 0.5,
+      "PiercingPowerMultiplier": 0.5,
+      "ArmorFlatDamageReductionMultiplier": 0.5,
+      "ArmorPerTierFlatDamageProtectionLossMultiplier": 0.5,
+      "ArmorPerTierRelativeProtectionLossMultiplier": 0.5,
+      "ShieldProtectionMultiplier": 0.5,
+      "Effects": [],
+      "IgnoreTranslation": false
+    },
+    "common": {
+      "Name": "Common",
+      "Color": "#FFFFFF",
+      "Rarity": 40.0,
+      "DurabilityMultiplier": 1.0,
+      "MiningSpeedMultiplier": 1.0,
+      "AttackPowerMultiplier": 1.0,
+      "PiercingPowerMultiplier": 1.0,
+      "ArmorFlatDamageReductionMultiplier": 1.0,
+      "ArmorPerTierFlatDamageProtectionLossMultiplier": 1.0,
+      "ArmorPerTierRelativeProtectionLossMultiplier": 1.0,
+      "ShieldProtectionMultiplier": 1.0,
+      "Effects": [],
+      "IgnoreTranslation": false
+    },
+    "uncommon": {
+      "Name": "Uncommon",
+      "Color": "#36FF00",
+      "Rarity": 30.0,
+      "DurabilityMultiplier": 1.1,
+      "MiningSpeedMultiplier": 1.1,
+      "AttackPowerMultiplier": 1.1,
+      "PiercingPowerMultiplier": 1.1,
+      "ArmorFlatDamageReductionMultiplier": 1.1,
+      "ArmorPerTierFlatDamageProtectionLossMultiplier": 1.1,
+      "ArmorPerTierRelativeProtectionLossMultiplier": 1.1,
+      "ShieldProtectionMultiplier": 1.1,
+      "Effects": [],
+      "IgnoreTranslation": false
+    },
+    "rare": {
+      "Name": "Rare",
+      "Color": "#13DBE8",
+      "Rarity": 20.0,
+      "DurabilityMultiplier": 1.2,
+      "MiningSpeedMultiplier": 1.2,
+      "AttackPowerMultiplier": 1.2,
+      "PiercingPowerMultiplier": 1.2,
+      "ArmorFlatDamageReductionMultiplier": 1.2,
+      "ArmorPerTierFlatDamageProtectionLossMultiplier": 1.2,
+      "ArmorPerTierRelativeProtectionLossMultiplier": 1.2,
+      "ShieldProtectionMultiplier": 1.2,
+      "Effects": [],
+      "IgnoreTranslation": false
+    },
+    "epic": {
+      "Name": "Epic",
+      "Color": "#8413E8",
+      "Rarity": 12.0,
+      "DurabilityMultiplier": 1.4,
+      "MiningSpeedMultiplier": 1.3,
+      "AttackPowerMultiplier": 1.3,
+      "PiercingPowerMultiplier": 1.3,
+      "ArmorFlatDamageReductionMultiplier": 1.3,
+      "ArmorPerTierFlatDamageProtectionLossMultiplier": 1.3,
+      "ArmorPerTierRelativeProtectionLossMultiplier": 1.3,
+      "ShieldProtectionMultiplier": 1.3,
+      "Effects": [],
+      "IgnoreTranslation": false
+    },
+    "legendary": {
+      "Name": "Legendary",
+      "Color": "#E08614",
+      "Rarity": 8.0,
+      "DurabilityMultiplier": 1.6,
+      "MiningSpeedMultiplier": 1.5,
+      "AttackPowerMultiplier": 1.5,
+      "PiercingPowerMultiplier": 1.5,
+      "ArmorFlatDamageReductionMultiplier": 1.5,
+      "ArmorPerTierFlatDamageProtectionLossMultiplier": 1.5,
+      "ArmorPerTierRelativeProtectionLossMultiplier": 1.5,
+      "ShieldProtectionMultiplier": 1.6,
+      "Effects": [],
+      "IgnoreTranslation": false
+    },
+    "unique": {
+      "Name": "Unique",
+      "Color": "#EC290E",
+      "Rarity": 2.0,
+      "DurabilityMultiplier": 2.0,
+      "MiningSpeedMultiplier": 1.9,
+      "AttackPowerMultiplier": 1.9,
+      "PiercingPowerMultiplier": 1.9,
+      "ArmorFlatDamageReductionMultiplier": 1.9,
+      "ArmorPerTierFlatDamageProtectionLossMultiplier": 1.9,
+      "ArmorPerTierRelativeProtectionLossMultiplier": 1.9,
+      "ShieldProtectionMultiplier": 1.9,
+      "Effects": [
+        "Thor"
+      ],
+      "IgnoreTranslation": false
+    }
+  }
+}

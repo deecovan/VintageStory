@@ -1,0 +1,44 @@
+[
+  {
+    "PlayerUID": "2021041976",
+    "RoleCode": "admin",
+    "PermaPrivileges": [],
+    "DeniedPrivileges": [],
+    "PlayerGroupMemberShips": {
+      "11": {
+        "Level": 3,
+        "GroupName": "Xlib",
+        "GroupUid": 11
+      }
+    },
+    "AllowInvite": true,
+    "LastKnownPlayername": "Dee",
+    "CustomPlayerData": {},
+    "ExtraLandClaimAllowance": 0,
+    "ExtraLandClaimAreas": 0,
+    "FirstJoinDate": "01-Jan-25 09:28",
+    "LastJoinDate": "19-Jan-25 03:21",
+    "LastCharacterSelectionDate": "01-Jan-25 00:00"
+  },
+  {
+    "PlayerUID": "1234567890",
+    "RoleCode": "admin",
+    "PermaPrivileges": [],
+    "DeniedPrivileges": [],
+    "PlayerGroupMemberShips": {
+      "11": {
+        "Level": 1,
+        "GroupName": "Xlib",
+        "GroupUid": 11
+      }
+    },
+    "AllowInvite": true,
+    "LastKnownPlayername": "Dee",
+    "CustomPlayerData": {},
+    "ExtraLandClaimAllowance": 0,
+    "ExtraLandClaimAreas": 0,
+    "FirstJoinDate": "26-Jan-25 09:39",
+    "LastJoinDate": "26-Jan-25 17:29",
+    "LastCharacterSelectionDate": "26-Jan-25 10:16"
+  }
+]

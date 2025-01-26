@@ -1,0 +1,8 @@
+{
+  "EnableProjectileTracker": true,
+  "allowWelcomeMessage": true,
+  "icon": "ptarrow",
+  "color": "#f9d0dc",
+  "InjectModdedProjectiles": true,
+  "projectileBlacklist": []
+}

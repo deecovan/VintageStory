@@ -1,0 +1,48 @@
+{
+  "RecipeEnabled": {
+    "andesite": true,
+    "basalt": true,
+    "chert": true,
+    "granite": true,
+    "peridotite": true,
+    "flint": true,
+    "obsidian": true,
+    "copper": true,
+    "tinbronze": true,
+    "bismuthbronze": true,
+    "blackbronze": true,
+    "silver": true,
+    "gold": true,
+    "iron": true,
+    "meteoriciron": true,
+    "steel": true,
+    "electrum": true,
+    "platinum": true,
+    "uranium": true,
+    "cupronickel": true,
+    "diorite": true,
+    "gabbro": true,
+    "quartzite": true,
+    "stainlesssteel": true,
+    "titanium": true,
+    "legendary": false
+  },
+  "LootEnabled": {
+    "crackedvessel": true,
+    "ruins": true,
+    "primitivesurvival": true,
+    "battletowers": true
+  },
+  "TraderEnabled": {
+    "buildmaterials": true,
+    "survivalgoods": true,
+    "treasurehunter": true
+  },
+  "ModDependence": {
+    "necessaries": true,
+    "helvehammerextensions": true,
+    "canjewelry": true,
+    "krpgenchantment": true,
+    "toolsextended": true
+  }
+}

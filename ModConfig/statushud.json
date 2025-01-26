@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "iconSize": 42,
+  "textSize": 18,
+  "showHidden": true,
+  "elements": [
+    {
+      "name": "date",
+      "x": 24,
+      "y": 12,
+      "halign": -1,
+      "valign": 1,
+      "options": ""
+    },
+    {
+      "name": "time",
+      "x": 90,
+      "y": 12,
+      "halign": -1,
+      "valign": 1,
+      "options": "24hr"
+    },
+    {
+      "name": "weather",
+      "x": 150,
+      "y": 12,
+      "halign": -1,
+      "valign": 1,
+      "options": "C"
+    },
+    {
+      "name": "wind",
+      "x": 210,
+      "y": 12,
+      "halign": -1,
+      "valign": 1,
+      "options": ""
+    },
+    {
+      "name": "armour",
+      "x": 456,
+      "y": 12,
+      "halign": 0,
+      "valign": 1,
+      "options": ""
+    },
+    {
+      "name": "stability",
+      "x": 90,
+      "y": 12,
+      "halign": 1,
+      "valign": 1,
+      "options": ""
+    },
+    {
+      "name": "room",
+      "x": -456,
+      "y": 12,
+      "halign": 0,
+      "valign": 1,
+      "options": ""
+    },
+    {
+      "name": "sleep",
+      "x": 210,
+      "y": 12,
+      "halign": 1,
+      "valign": 1,
+      "options": ""
+    },
+    {
+      "name": "wet",
+      "x": 150,
+      "y": 12,
+      "halign": 1,
+      "valign": 1,
+      "options": ""
+    },
+    {
+      "name": "timelocal",
+      "x": 24,
+      "y": 12,
+      "halign": 1,
+      "valign": 1,
+      "options": "24hr"
+    }
+  ]
+}
