@@ -122,6 +122,10 @@
     "worldmap-layer-waypoints": {
       "X": 1356,
       "Y": 8
+    },
+    "handbook-overview": {
+      "X": 1240,
+      "Y": 80
     }
   },
   "stringSettings": {
@@ -170,8 +174,8 @@
     "entitySoundLevel": 100,
     "ambientSoundLevel": 100,
     "weatherSoundLevel": 50,
-    "musicLevel": 34,
-    "screenWidth": 1382,
+    "musicLevel": 15,
+    "screenWidth": 1386,
     "screenHeight": 788,
     "gameWindowMode": 1,
     "rightDialogMargin": 0,
@@ -260,7 +264,7 @@
     "gammaLevel": 2.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.26907817,
+    "sepiaLevel": 0.30176583,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,
@@ -268,7 +272,7 @@
     "swimmingMouseSmoothing": 0.5,
     "mouseWheelSensivity": 1.0,
     "ambientBloomLevel": 0.0,
-    "extraContrastLevel": 0.40295455,
+    "extraContrastLevel": 0.49999994,
     "recordingFrameRate": 30.0,
     "gameTickFrameRate": -1.0,
     "instabilityWavingStrength": 0.0,

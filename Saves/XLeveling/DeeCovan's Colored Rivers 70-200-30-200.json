@@ -1,0 +1,25 @@
+{
+  "1234567890": {
+    "UnlearnPoints": 0.0,
+    "UnlearnCooldown": 0.0,
+    "Sparring": false,
+    "Skills": {
+      "survival": {
+        "Level": 1,
+        "Experience": 0.15300903,
+        "Abilities": {}
+      },
+      "forestry": {
+        "Level": 1,
+        "Experience": 0.099999994,
+        "Abilities": {}
+      },
+      "temporaladaptation": {
+        "Level": 1,
+        "Experience": 0.44789475,
+        "Abilities": {}
+      }
+    },
+    "Knowledge": {}
+  }
+}
