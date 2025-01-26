@@ -6,7 +6,7 @@
 26-Jan-25  21:18    <DIR>          .
 26-Jan-25  21:18    <DIR>          ..
 26-Jan-25  12:11                37 .gitignore
-26-Jan-25  21:18                 0 1.20.3-list.txt
+26-Jan-25  21:31                 0 1.20.3-list.txt
 26-Jan-25  10:20           100,758 apewindows-v1.20-1.2.0.zip
 25-Dec-24  12:43           179,530 bags_0.1.30.zip
 15-Jan-25  11:17            30,562 betterloot1.1.0.zip
@@ -57,4 +57,4 @@
 26-Jan-25  10:40           147,756 xlib_v0.8.9.zip
 26-Jan-25  10:40           285,189 xskills_v0.8.10.zip
               51 File(s)     52,043,497 bytes
-               2 Dir(s)  55,816,314,880 bytes free
+               2 Dir(s)  55,629,987,840 bytes free
