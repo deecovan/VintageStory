@@ -2,6 +2,8 @@
 
 ## 01.26 Start without Terraform Conquest mod
 - Start DeeCovan Colored Rivers 70-200-30-200 
+- !!!DELETE th3dungeons - its TOO hard to generate 128m per 0.5 sq.km
+- Test DeeCovan Colored Rivers 70-200-30-200 
   - 10k/5k 256 height 200 rare 3days NoDrop
   - Seed 1894113218
   - Settings in Saves/

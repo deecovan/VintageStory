@@ -6,7 +6,12 @@
     "Skills": {
       "survival": {
         "Level": 1,
-        "Experience": 0.009904861,
+        "Experience": 0.17996739,
+        "Abilities": {}
+      },
+      "temporaladaptation": {
+        "Level": 1,
+        "Experience": 0.7317832,
         "Abilities": {}
       }
     },

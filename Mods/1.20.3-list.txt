@@ -1,0 +1,60 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9E0B-6719
+
+ Directory of C:\Projects\VintageStory\Mods
+
+26-Jan-25  21:18    <DIR>          .
+26-Jan-25  21:18    <DIR>          ..
+26-Jan-25  12:11                37 .gitignore
+26-Jan-25  21:18                 0 1.20.3-list.txt
+26-Jan-25  10:20           100,758 apewindows-v1.20-1.2.0.zip
+25-Dec-24  12:43           179,530 bags_0.1.30.zip
+15-Jan-25  11:17            30,562 betterloot1.1.0.zip
+21-Jan-25  13:41        23,588,471 BetterRuinsv0.4.6.zip
+26-Jan-25  10:21         1,477,127 BetterTradersv0.0.9.zip
+26-Jan-25  10:20            50,278 biomes_1.20.1.zip
+26-Jan-25  10:34            42,012 blockoverlay-4.0.3.zip
+26-Jan-25  10:14            37,803 bonifiedtools-1.0.3.zip
+28-Dec-24  15:48           202,160 CarryOn-1.20.0-pre_v1.8.0-pre.1.zip
+26-Jan-25  10:35        10,121,058 chiseltools1.14.11.zip
+26-Jan-25  10:15            58,580 cob_seraphvoices_1.0.1.zip
+26-Jan-25  10:34           141,486 cob_tradercamps_1.1.5.zip
+26-Jan-25  10:12           146,392 DanaTweaks-v3.3.11.zip
+26-Jan-25  10:18         1,921,640 Decaying-Creatures-v.0.1.2.zip
+26-Jan-25  10:18           344,510 Expanded Molds 1.0.1.zip
+26-Jan-25  10:17            67,300 ExtraInfo-v1.9.6.zip
+26-Jan-25  10:22            32,366 firewoodtostick.zip
+26-Jan-25  10:21           980,246 FloralZonesMediterraneanRegion-v1.0.3.zip
+15-Jan-25  11:17            10,191 harvestcorpsesquickly_1.0.0.zip
+26-Jan-25  10:21            93,613 herbarium_1.4.0.zip
+15-Jan-25  11:17         1,253,673 instantTemporalmobdrops_v1.0.0.zip
+26-Jan-25  10:41            32,656 itemrarity_1.1.2.zip
+26-Jan-25  10:23            69,869 JuicyOres-v1.0.0.zip
+26-Jan-25  10:20            68,078 Molds v0.1.4.zip
+26-Dec-24  22:30            63,567 NotEnoughMapIcons-v1.1.0.zip
+26-Jan-25  10:20           915,527 Not_OnlySpear_Expantion_by_Kanahaku-v.0.2.6.zip
+26-Jan-25  10:21             7,854 particlesplus_1.1.1.zip
+28-Dec-24  15:48           247,667 paxel_v1.6.0.zip
+26-Jan-25  10:43            23,349 pomshadercache_v1.1.2-rc.1.zip
+26-Jan-25  10:22           110,398 pottery-wheel_v1.1.2.zip
+26-Jan-25  10:21         2,762,787 primitivesurvival_3.7.5.zip
+26-Jan-25  10:16            25,325 projectiletracker_1.0.3.zip
+26-Jan-25  10:17            89,212 qolcrafts.zip
+26-Jan-25  10:15            65,698 RecipePatcher-v1.1.1.zip
+26-Jan-25  10:14            15,679 RecipeSelector_VS1.19.8_net7_v1.0.1.zip
+26-Jan-25  12:10         1,416,006 Remnants-v.1.0.2-rc.13.zip
+26-Jan-25  10:21            42,903 RiverGen_v1.0.0.zip
+30-Dec-24  19:56            76,197 simplefootstepsredux.zip
+26-Jan-25  10:22            81,694 sortablestorage_2.2.8.zip
+26-Jan-25  10:11           195,764 statushudcont_3.2.3.zip
+25-Dec-24  12:41             9,260 stepupcontinued_0.0.1.zip
+01-Jan-25  11:27           211,124 undergroundmines_1.0.4.zip
+26-Jan-25  10:18             9,579 UsefulDrifterLoot 1.2.1.zip
+26-Jan-25  10:34           299,626 vanillamoremolds_1.1.1.zip
+26-Jan-25  10:12         1,344,926 Wilderlands Deposit Scarcity.zip
+26-Jan-25  10:12         2,318,506 Wilderlands Ethology_1.0.0-dev.5.zip
+26-Jan-25  10:21           227,508 wildfarmingrevival_1.3.4.zip
+26-Jan-25  10:40           147,756 xlib_v0.8.9.zip
+26-Jan-25  10:40           285,189 xskills_v0.8.10.zip
+              51 File(s)     52,043,497 bytes
+               2 Dir(s)  55,816,314,880 bytes free
