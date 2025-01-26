@@ -1,7 +1,12 @@
 # VintageStory 1.20.3 GitHub repo 
 
 ## 01.26 Start without Terraform Conquest mod
-- Start DeeCovan Rivers 70-200-30-200 10k/5k 256 height 200 rare 3days NoDrop
+- Start DeeCovan Colored Rivers 70-200-30-200 
+  - 10k/5k 256 height 200 rare 3days NoDrop
+  - Seed 1894113218
+  - Settings in Saves/
+    - deecovan colored rivers 70-200-30-200.png
+    - deecovan colored rivers 70-200-30-200.txt
 
 ## 01.26 Start test mods
 - Tested Working DeeCovan Rivers 50-300-30-200 10k/5k 256 height 200 rare 3days NoDrop
