@@ -1,0 +1,53 @@
+{
+  "delay": 200,
+  "toolSwitchDurability": 0,
+  "tools": true,
+  "groundStorage": true,
+  "seeds": true,
+  "blocks": true,
+  "stairs": true,
+  "piles": true,
+  "extendChestUi": true,
+  "strgClick": true,
+  "survivalPick": true,
+  "pushPullWheel": true,
+  "crateSwitch": true,
+  "BulkQuanties": {
+    "bamboostakes": 10,
+    "burnedbrick-*": 4,
+    "agedfirewood": 8,
+    "firewood": 8,
+    "ingot-*": 4,
+    "metalplate-*": 4,
+    "plank-*": 4,
+    "rawbrick-*": 4,
+    "refractorybrick-*-*": 4,
+    "shingle-*-*": 6,
+    "stonebrick-*": 4,
+    "peatbrick": 4,
+    "grasspeatbrick": 4
+  },
+  "SortBlacklist": [
+    "cart"
+  ],
+  "SortOrder": [
+    "priority",
+    "lightinvert",
+    "tool",
+    "tooltier",
+    "block",
+    "storageflags",
+    "id",
+    "name",
+    "durability",
+    "attackpower",
+    "stacksize"
+  ],
+  "StackOrder": [
+    "stacksize",
+    "durability"
+  ],
+  "StorageFlagsOrder": [],
+  "Priorities": {},
+  "LockedSlots": []
+}
