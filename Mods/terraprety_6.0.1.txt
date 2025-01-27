@@ -1,0 +1,18 @@
+I am very much enjoying this fork. In combination with Terra Prety, the rivers create wonderful vallies edged by sweeping hills and cliffs, and, since the water is static and not flowing, travel by boat is possible along the rivers in both directions, leading to a world where boats are actually useful.
+
+Below is a link to a pastboard image of the world map. 
+World generation settings used were: 
+
+In combination with Terra Prety,
+seed 703041901; 
+Landcover: 80%; 
+Landcover Scale: 300%; 
+Landform Scale: 300%; 
+World Width/Height: 5120; 
+Polar-Equator Distance: 15k blocks; 
+World Height: 320 blocks
+
+
+https://gcdnb.pbrd.co/images/bQRYXNypps89.png?o=1
+
+Thanks again for the mod!
