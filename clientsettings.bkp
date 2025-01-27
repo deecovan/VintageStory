@@ -87,12 +87,20 @@
       "Alt": false,
       "Shift": false,
       "OnKeyUp": false
+    },
+    "waypointQuickAdd": {
+      "KeyCode": 56,
+      "SecondKeyCode": null,
+      "Ctrl": false,
+      "Alt": false,
+      "Shift": false,
+      "OnKeyUp": false
     }
   },
   "dialogPositions": {
     "inventory-backpack": {
-      "X": 621,
-      "Y": 411
+      "X": 623,
+      "Y": 498
     },
     "playerstats": {
       "X": -429,
@@ -110,7 +118,15 @@
       "X": 649,
       "Y": 234
     },
-    "handbook-detail": null
+    "handbook-detail": null,
+    "worldmap-layer-waypoints": {
+      "X": 1356,
+      "Y": 8
+    },
+    "handbook-overview": {
+      "X": 1240,
+      "Y": 80
+    }
   },
   "stringSettings": {
     "settingsVersion": "1.13",
@@ -158,10 +174,10 @@
     "entitySoundLevel": 100,
     "ambientSoundLevel": 100,
     "weatherSoundLevel": 50,
-    "musicLevel": 10,
-    "screenWidth": 1366,
-    "screenHeight": 768,
-    "gameWindowMode": 1,
+    "musicLevel": 15,
+    "screenWidth": 1386,
+    "screenHeight": 788,
+    "gameWindowMode": 2,
     "rightDialogMargin": 0,
     "leftDialogMargin": 0,
     "maxQuadParticles": 4000,
@@ -169,7 +185,7 @@
     "maxAsyncQuadParticles": 40000,
     "maxAsyncCubeParticles": 40000,
     "itemCollectMode": 0,
-    "mouseSmoothing": 80,
+    "mouseSmoothing": 30,
     "mouseSensivity": 150,
     "modelDataPoolMaxVertexSize": 500000,
     "modelDataPoolMaxIndexSize": 750000,
@@ -181,9 +197,10 @@
     "chatWindowHeight": 240,
     "recordingBufferSize": 60,
     "vsyncMode": 0,
-    "windowBorder": 0,
+    "windowBorder": 2,
     "guiColorsPreset": 3,
-    "schematicMaxUploadSizeKb": 200
+    "schematicMaxUploadSizeKb": 200,
+    "minimapHudPosition": 0
   },
   "boolSettings": {
     "selectedBlockOutline": true,
@@ -194,7 +211,7 @@
     "showCreativeHelpDialog": true,
     "smoothShadows": true,
     "flipScreenshot": true,
-    "renderClouds": false,
+    "renderClouds": true,
     "renderParticles": true,
     "transparentRenderPass": true,
     "extendedDebugInfo": false,
@@ -247,7 +264,7 @@
     "gammaLevel": 2.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.29826644,
+    "sepiaLevel": 0.32224563,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,
