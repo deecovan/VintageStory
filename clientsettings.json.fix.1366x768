@@ -91,8 +91,8 @@
   },
   "dialogPositions": {
     "inventory-backpack": {
-      "X": 623,
-      "Y": 498
+      "X": 621,
+      "Y": 411
     },
     "playerstats": {
       "X": -429,
@@ -129,7 +129,7 @@
     "audioDevice": null,
     "playeruid": "1234567890",
     "playername": "Dee",
-    "lastSkinSelection": "baseskin:skin9,eyecolor:midnight,underwear:leotard,voicepitch:verylow,hairbase:iroquois,hairextra:none,facialexpression:kind,mustache:mst-walrus30-fat,beard:brd-full10-shaggy,haircolor:mossgreen",
+    "lastSkinSelection": "baseskin:skin9,eyecolor:midnight,underwear:leotard,voicetype:male,voicepitch:verylow,hairbase:iroquois,hairextra:none,facialexpression:kind,mustache:mst-walrus30-fat,beard:brd-full10-shaggy,haircolor:mossgreen",
     "prevSkinSelection": "baseskin:skin18,eyecolor:dark-green,underwear:breeches,voicetype:trumpet,voicepitch:verylow,hairbase:longwithstrands,hairextra:elaboratestickbun,facialexpression:neutral,mustache:mst-walrus30-fat,beard:brd-braid10-double,haircolor:lightgray",
     "currentHandbookCategoryCode": "stack"
   },
@@ -145,7 +145,7 @@
     "shadowMapQuality": 0,
     "optimizeRamMode": 2,
     "ssaoQuality": 0,
-    "viewDistance": 320,
+    "viewDistance": 256,
     "fieldOfView": 66,
     "maxFps": 30,
     "particleLevel": 20,
@@ -158,7 +158,7 @@
     "entitySoundLevel": 100,
     "ambientSoundLevel": 100,
     "weatherSoundLevel": 50,
-    "musicLevel": 34,
+    "musicLevel": 10,
     "screenWidth": 1366,
     "screenHeight": 768,
     "gameWindowMode": 1,
@@ -169,7 +169,7 @@
     "maxAsyncQuadParticles": 40000,
     "maxAsyncCubeParticles": 40000,
     "itemCollectMode": 0,
-    "mouseSmoothing": 30,
+    "mouseSmoothing": 80,
     "mouseSensivity": 150,
     "modelDataPoolMaxVertexSize": 500000,
     "modelDataPoolMaxIndexSize": 750000,
@@ -247,7 +247,7 @@
     "gammaLevel": 2.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.3970974,
+    "sepiaLevel": 0.29825234,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,
