@@ -3,7 +3,8 @@
 ## 25.09.25
 - Continue East discovery
 - !@Need new repo for 1.21
-- Add save-in-bed and ItemRarity
+- Add save-in-bed and 
+  - ItemRarity only 1.20!!!
 
 ## 25.09.24
 - Dee Rich Story
