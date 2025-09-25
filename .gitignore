@@ -1,0 +1,47 @@
+*.exe
+*.fsh
+*.vsh
+*.ogg
+*.svg
+*.log
+
+# Mods
+#*.dll
+#*.png
+#*.pdb
+
+assets
+assets/
+assets/*
+
+*.hold
+*.hold/
+*.hold/*
+
+Lib*
+Lib*/
+Lib*/*
+
+Cache
+Cache/
+Cache/*
+
+Logs
+Logs/
+Logs/*
+
+# Add files that You need with -f option
+*.zip
+*.7z
+*.7zip
+*.zzz
+
+# Add Saves via git add SAVENAME.vcdbs -f
+*.vcdbs
+*.vcdbs*
+*.vcdbs.*
+*.db-*
+Maps/*.db-*
+
+VintagestoryData/Logs/client-*.txt
+VintagestoryData/Logs/server-*.txt
