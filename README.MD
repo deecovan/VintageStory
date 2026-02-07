@@ -1,5 +1,9 @@
 # VintageStory.1.21.x GitHub repo 
 
+## 26.01.07
+- New Slim New Installation
+
+
 ## 25.09.25
 - Continue East discovery
 - !@Need new repo for 1.21
