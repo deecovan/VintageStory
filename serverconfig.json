@@ -334,9 +334,9 @@
   ],
   "AntiAbuse": 0,
   "WorldConfig": {
-    "Seed": "",
-    "SaveFileLocation": "C:\\Users\\cheva\\AppData\\Roaming\\VintagestoryData\\Saves\\ttt.vcdbs",
-    "WorldName": "ttt",
+    "Seed": "645295945",
+    "SaveFileLocation": "C:\\Users\\cheva\\AppData\\Roaming\\VintagestoryData\\Saves\\keep 3 days.vcdbs",
+    "WorldName": "Keep 3 days",
     "AllowCreativeMode": true,
     "PlayStyle": "surviveandbuild",
     "PlayStyleLangCode": "preset-surviveandbuild",
@@ -409,12 +409,10 @@
     },
     "MapSizeY": 256,
     "CreatedByPlayerName": "Cheva",
-    "DisabledMods": [
-      "stepupcontinued@0.0.1"
-    ],
+    "DisabledMods": [],
     "RepairMode": false
   },
-  "NextPlayerGroupUid": 11,
+  "NextPlayerGroupUid": 12,
   "GroupChatHistorySize": 20,
   "MaxOwnedGroupChannelsPerUser": 10,
   "OnlyWhitelisted": false,

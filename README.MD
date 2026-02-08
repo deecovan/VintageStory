@@ -1,5 +1,9 @@
 # VintageStory.1.21.x GitHub repo 
 
+## 26.01.08 Start with mods: BigBag fixin 
+- Need to fix game:basket error
+- Tested Fixed at 50% GPU load
+
 ## 26.01.07 Fixin Mods
 - New Slim New Installation
 - Trying to start but no mods
