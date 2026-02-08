@@ -1,10 +1,11 @@
 # VintageStory.1.21.x GitHub repo 
 
-## 26.01.07
+## 26.01.07 Fixin Mods
 - New Slim New Installation
 - Trying to start but no mods
   - Clear cache
   - Start without mods
+- Works after placing mods into Games\VintageStory\Mods directory
 
 ## 25.09.25
 - Continue East discovery

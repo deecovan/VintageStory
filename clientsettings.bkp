@@ -227,9 +227,7 @@
     "multiplayerservers": [
       "xmini,127.0.0.1,"
     ],
-    "disabledMods": [
-      "stepupcontinued@0.0.1"
-    ],
+    "disabledMods": [],
     "dialogPositions": [],
     "modPaths": [
       "Mods",
