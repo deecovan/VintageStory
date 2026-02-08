@@ -100,7 +100,7 @@
     "maxAnimatedElements": 230,
     "archiveLogFileCount": 5,
     "archiveLogFileMaxSizeMb": 1024,
-    "shadowMapQuality": 0,
+    "shadowMapQuality": 1,
     "optimizeRamMode": 1,
     "ssaoQuality": 1,
     "viewDistance": 256,
@@ -146,7 +146,7 @@
   "boolSettings": {
     "selectedBlockOutline": true,
     "showMoreGfxOptions": true,
-    "dynamicColorGrading": false,
+    "dynamicColorGrading": true,
     "multipleInstances": false,
     "showSurvivalHelpDialog": true,
     "showCreativeHelpDialog": true,
