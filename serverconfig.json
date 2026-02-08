@@ -1,6 +1,6 @@
 {
   "FileEditWarning": "PLEASE NOTE: This file is also loaded when you start a single player world. If you want to run a dedicated server without affecting single player, we recommend you install the game into a different folder and run the server from there.",
-  "ConfigVersion": "1.8",
+  "ConfigVersion": "1.9",
   "ServerName": "Vintage Story Server",
   "ServerUrl": null,
   "ServerDescription": null,
@@ -220,7 +220,8 @@
         "readlists",
         "attackcreatures",
         "attackplayers",
-        "selfkill"
+        "selfkill",
+        "manageotherplayergroups"
       ],
       "RuntimePrivileges": [],
       "DefaultGameMode": 1,
@@ -259,7 +260,8 @@
         "readlists",
         "attackcreatures",
         "attackplayers",
-        "selfkill"
+        "selfkill",
+        "manageotherplayergroups"
       ],
       "RuntimePrivileges": [],
       "DefaultGameMode": 2,
@@ -309,7 +311,8 @@
         "controlplayergroups",
         "manageplayergroups",
         "selfkill",
-        "worldedit"
+        "worldedit",
+        "manageotherplayergroups"
       ],
       "RuntimePrivileges": [],
       "DefaultGameMode": 1,
@@ -423,6 +426,7 @@
   "AllowFallingBlocks": true,
   "HostedMode": false,
   "HostedModeAllowMods": false,
+  "VhIdentifier": null,
   "StartupCommands": null,
   "RepairMode": false,
   "AnalyzeMode": false,
