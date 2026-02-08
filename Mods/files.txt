@@ -1,0 +1,51 @@
+ Volume in drive C has no label.
+ Volume Serial Number is BA4A-6F05
+
+ Directory of C:\Projects\VintageStory\Mods
+
+02/08/2026  12:56 PM            23,097 bedspawnv2_1.6.4.zip
+02/08/2026  01:00 PM        36,861,578 BetterRuinsv0.5.7.zip
+02/08/2026  12:56 PM           685,823 BetterTradersv0.1.0.zip
+02/08/2026  12:56 PM            56,472 blockoverlay-4.8.1.zip
+02/08/2026  12:56 PM           134,724 DanaTweaks-v3.7.1.zip
+02/08/2026  12:59 PM            69,311 ExtraInfo-v1.11.2.zip
+02/08/2026  01:07 PM         1,765,753 FloralZonesCapeRegion-v1.0.28.zip
+02/08/2026  01:00 PM         1,779,114 FloralZonesCaribbeanRegion-v1.0.23.zip
+02/08/2026  01:00 PM         1,590,340 FloralZonesCentralAustralianRegion-v1.0.20.zip
+02/08/2026  12:59 PM         3,215,810 FloralZonesCosmopolitanRegion-v1.0.11.zip
+02/08/2026  01:00 PM         1,343,300 FloralZonesEastAsiaticRegion-v1.0.19.zip
+02/08/2026  01:02 PM         2,261,415 FloralZonesMediterraneanRegion-v1.0.19.zip
+02/08/2026  01:00 PM         2,968,841 FloralZonesNeozeylandicRegion-v1.0.19.zip
+02/08/2026  01:09 PM        10,053,366 FotSA-Bovinae-v0.3.5.zip
+02/08/2026  12:58 PM         4,582,867 FotSA-Caninae-v1.1.2.zip
+02/08/2026  12:58 PM         8,002,516 FotSA-Capreolinae-v2.0.7.zip
+02/08/2026  01:09 PM         1,928,454 FotSA-Casuariidae-v1.1.9.zip
+02/08/2026  01:08 PM         1,146,010 FotSA-Cervinae-v0.1.13.zip
+02/08/2026  12:59 PM         1,072,356 FotSA-Chelonioidea-v1.0.7.zip
+02/08/2026  01:08 PM         5,614,778 FotSA-Dinornithidae-v1.0.22.zip
+02/08/2026  12:59 PM         4,873,708 FotSA-Elephantidae-v1.0.17.zip
+02/08/2026  01:08 PM         1,211,671 FotSA-Felinae-v0.2.13.zip
+02/08/2026  01:07 PM           555,015 FotSA-Iniidae-v0.1.6.zip
+02/08/2026  01:08 PM         1,343,923 FotSA-Machairodontinae-v1.1.7.zip
+02/08/2026  12:59 PM           755,321 FotSA-Manidae-v1.0.19.zip
+02/08/2026  01:07 PM           614,013 FotSA-Meiolaniidae-v0.1.10.zip
+02/08/2026  12:57 PM         2,690,996 FotSA-Pantherinae-v1.2.8.zip
+02/08/2026  01:08 PM         2,312,121 FotSA-Rhinocerotidae-v1.0.23.zip
+02/08/2026  01:09 PM           888,549 FotSA-Sirenia-v1.0.26.zip
+02/08/2026  01:09 PM         2,256,933 FotSA-Spheniscidae-v1.0.16.zip
+02/08/2026  01:07 PM         1,183,859 FotSA-Thylacinidae-v0.1.6.zip
+02/08/2026  01:07 PM         1,928,133 FotSA-Viverridae-v1.0.8.zip
+02/08/2026  12:59 PM         1,696,572 FotSA-Vombatidae-v0.4.5.zip
+02/08/2026  01:01 PM         2,690,384 MaterialNeedsGeology_1.0.6.zip
+02/08/2026  12:55 PM         3,144,625 primitivesurvival_4.0.3.zip
+02/08/2026  12:56 PM            86,883 rivers_4.7.5.zip
+02/08/2026  01:00 PM             9,260 stepupcontinued_0.0.1.zip
+02/08/2026  12:56 PM         1,182,382 th3dungeon_0.4.5.zip
+02/08/2026  12:56 PM           231,566 wildfarmingrevival_1.4.2.zip
+02/08/2026  12:55 PM           151,311 xlib_v0.9.0-pre.2.zip
+02/08/2026  12:55 PM           307,563 xskills_v0.9.0-pre.2.zip
+
+ Directory of C:\Projects\VintageStory\Mods
+
+              41 File(s)    115,270,713 bytes
+               0 Dir(s)  159,596,232,704 bytes free
