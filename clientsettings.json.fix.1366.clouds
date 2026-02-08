@@ -104,7 +104,7 @@
     "optimizeRamMode": 1,
     "ssaoQuality": 1,
     "viewDistance": 256,
-    "fieldOfView": 70,
+    "fieldOfView": 68,
     "maxFps": 30,
     "particleLevel": 10,
     "maxDynamicLights": 3,
