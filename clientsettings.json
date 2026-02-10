@@ -67,12 +67,8 @@
       "Y": 591
     },
     "environment": {
-      "X": 1287,
-      "Y": 803
-    },
-    "inventory-backpack": {
-      "X": 670,
-      "Y": 253
+      "X": 16,
+      "Y": 965
     }
   },
   "stringSettings": {
@@ -92,13 +88,13 @@
     "audioDevice": null,
     "playeruid": "1234567890",
     "playername": "Cheva",
-    "lastSkinSelection": "baseskin:skin19,eyecolor:forest-green,underwear:breeches,voicetype:trumpet,voicepitch:high,hairbase:tonsure,hairextra:none,facialexpression:sad,mustache:mst-line10-sheriff,beard:brd-full01-trimmedfull,haircolor:rosewood"
+    "lastSkinSelection": "baseskin:skin5,eyecolor:aquamarine,underwear:breeches,voicetype:tuba,voicepitch:verylow,hairbase:kniaz,hairextra:topknot,facialexpression:kind,mustache:mst-line20-seagull,beard:brd-full01-trimmedfull,haircolor:queenblue"
   },
   "intSettings": {
     "fpHandsFoV": 70,
     "cloudRenderMode": 1,
     "mipmapLevel": 3,
-    "musicFrequency": 2,
+    "musicFrequency": 0,
     "graphicsPresetId": 11,
     "webRequestTimeout": 10,
     "maxAnimatedElements": 230,
@@ -108,10 +104,10 @@
     "optimizeRamMode": 1,
     "ssaoQuality": 0,
     "viewDistance": 256,
-    "fieldOfView": 60,
+    "fieldOfView": 68,
     "maxFps": 60,
-    "particleLevel": 100,
-    "maxDynamicLights": 10,
+    "particleLevel": 20,
+    "maxDynamicLights": 3,
     "weirdMacOSMouseYOffset": 5,
     "screenshotExifDataMode": 0,
     "chunkVerticesUploadRateLimiter": 3,
@@ -120,7 +116,7 @@
     "entitySoundLevel": 100,
     "ambientSoundLevel": 100,
     "weatherSoundLevel": 100,
-    "musicLevel": 33,
+    "musicLevel": 0,
     "screenWidth": 1260,
     "screenHeight": 700,
     "gameWindowMode": 1,
@@ -163,7 +159,7 @@
     "showBlockInfoHud": true,
     "showBlockInteractionHelp": true,
     "showCoordinateHud": true,
-    "wavingStuff": true,
+    "wavingStuff": false,
     "renderMetaBlocks": false,
     "ambientParticles": true,
     "pauseGameOnLostFocus": false,
@@ -177,18 +173,18 @@
     "showModdedServers": true,
     "showPasswordProtectedServers": true,
     "showOpenForAllServers": true,
-    "liquidFoamAndShinyEffect": true,
+    "liquidFoamAndShinyEffect": false,
     "testGlExtensions": true,
     "offThreadMipMaps": false,
-    "toggleSprint": true,
+    "toggleSprint": false,
     "separateCtrlKeyForMouse": false,
     "allowSettingHRTFaudio": true,
     "useHRTFaudio": false,
     "force48khzHRTFaudio": true,
     "fxaa": false,
     "autoChat": false,
-    "autoChatOpenSelected": true,
-    "bloom": true,
+    "autoChatOpenSelected": false,
+    "bloom": false,
     "skipNvidiaProfileCheck": false,
     "scaleScreenshot": false,
     "immersiveMouseMode": false,
@@ -205,25 +201,25 @@
     "guiScale": 0.75,
     "fontSize": 0.75,
     "lodBias": 0.33,
-    "lodBiasFar": 0.5,
+    "lodBiasFar": 0.75,
     "blockAtlasSubPixelPadding": 0.01,
     "itemAtlasSubPixelPadding": 0.0,
     "gammaLevel": 3.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.2,
+    "sepiaLevel": 0.1,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 2.0,
     "previewTransparency": 0.3,
     "fpHandsYOffset": -0.1,
     "swimmingMouseSmoothing": 0.9,
     "mouseWheelSensivity": 1.0,
-    "ambientBloomLevel": 30.0,
-    "extraContrastLevel": 0.2,
+    "ambientBloomLevel": 0.2,
+    "extraContrastLevel": 0.5,
     "recordingFrameRate": 30.0,
     "gameTickFrameRate": 30.0,
     "instabilityWavingStrength": 1.0,
-    "ssaa": 1.0,
+    "ssaa": 0.75,
     "megaScreenshotSizeMul": 2.0,
     "minbrightness": 0.0
   },
@@ -231,7 +227,10 @@
     "multiplayerservers": [
       "xmini,127.0.0.1,"
     ],
-    "disabledMods": [],
+    "disabledMods": [
+      "stepupcontinued@0.0.1",
+      "bigbag@0.1.28"
+    ],
     "dialogPositions": [],
     "modPaths": [
       "Mods",

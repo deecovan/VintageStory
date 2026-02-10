@@ -335,8 +335,8 @@
   "AntiAbuse": 0,
   "WorldConfig": {
     "Seed": "645295945",
-    "SaveFileLocation": "C:\\Users\\cheva\\AppData\\Roaming\\VintagestoryData\\Saves\\keep 3 days.vcdbs",
-    "WorldName": "Keep 3 days",
+    "SaveFileLocation": "C:\\Users\\cheva\\AppData\\Roaming\\VintagestoryData\\Saves\\dark mods.vcdbs",
+    "WorldName": "Dark Mods",
     "AllowCreativeMode": true,
     "PlayStyle": "surviveandbuild",
     "PlayStyleLangCode": "preset-surviveandbuild",
@@ -344,7 +344,7 @@
     "WorldConfiguration": {
       "gameMode": "survival",
       "playerlives": "-1",
-      "startingClimate": "temperate",
+      "startingClimate": "warm",
       "spawnRadius": "50",
       "graceTimer": "3",
       "deathPunishment": "keep",
@@ -409,7 +409,10 @@
     },
     "MapSizeY": 256,
     "CreatedByPlayerName": "Cheva",
-    "DisabledMods": [],
+    "DisabledMods": [
+      "stepupcontinued@0.0.1",
+      "bigbag@0.1.28"
+    ],
     "RepairMode": false
   },
   "NextPlayerGroupUid": 12,
