@@ -127,8 +127,8 @@
     "maxAsyncQuadParticles": 80000,
     "maxAsyncCubeParticles": 80000,
     "itemCollectMode": 0,
-    "mouseSmoothing": 100,
-    "mouseSensivity": 100,
+    "mouseSmoothing": 95,
+    "mouseSensivity": 126,
     "modelDataPoolMaxVertexSize": 500000,
     "modelDataPoolMaxIndexSize": 750000,
     "modelDataPoolMaxParts": 1500,
@@ -229,8 +229,7 @@
       "xmini,127.0.0.1,"
     ],
     "disabledMods": [
-      "stepupcontinued@0.0.1",
-      "bigbag@0.1.28"
+      "stepupcontinued@0.0.1"
     ],
     "dialogPositions": [],
     "modPaths": [
