@@ -1,5 +1,8 @@
 # VintageStory.1.21.x GitHub repo 
 
+## Bags ok Slim works 4 hours om battery
+- days 4 dies
+
 ## 26.01.08 Start with mods: BigBag fixin 
 - Need to fix game:basket error
 - Tested Fixed at 50% GPU load
