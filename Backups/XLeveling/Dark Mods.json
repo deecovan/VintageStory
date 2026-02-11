@@ -6,22 +6,27 @@
     "Skills": {
       "survival": {
         "Level": 1,
-        "Experience": 1.0243657,
+        "Experience": 2.958463,
+        "Abilities": {}
+      },
+      "farming": {
+        "Level": 1,
+        "Experience": 3.8830001,
         "Abilities": {}
       },
       "digging": {
         "Level": 1,
-        "Experience": 11.769991,
+        "Experience": 38.06001,
         "Abilities": {}
       },
       "forestry": {
         "Level": 1,
-        "Experience": 0.8800001,
+        "Experience": 48.235058,
         "Abilities": {}
       },
       "temporaladaptation": {
         "Level": 1,
-        "Experience": 12.8941765,
+        "Experience": 26.69851,
         "Abilities": {}
       }
     },

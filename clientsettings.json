@@ -195,7 +195,8 @@
     "renderClouds": true,
     "hasGameServer": false,
     "showMinimapHud": true,
-    "chatdialogvisible": true
+    "chatdialogvisible": true,
+    "noHandbookPause": false
   },
   "floatSettings": {
     "guiScale": 0.75,

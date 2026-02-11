@@ -67,8 +67,8 @@
       "Y": 591
     },
     "environment": {
-      "X": 1287,
-      "Y": 803
+      "X": 16,
+      "Y": 965
     }
   },
   "stringSettings": {
@@ -100,13 +100,13 @@
     "maxAnimatedElements": 230,
     "archiveLogFileCount": 5,
     "archiveLogFileMaxSizeMb": 1024,
-    "shadowMapQuality": 1,
+    "shadowMapQuality": 0,
     "optimizeRamMode": 1,
-    "ssaoQuality": 1,
+    "ssaoQuality": 0,
     "viewDistance": 256,
     "fieldOfView": 68,
-    "maxFps": 30,
-    "particleLevel": 10,
+    "maxFps": 60,
+    "particleLevel": 20,
     "maxDynamicLights": 3,
     "weirdMacOSMouseYOffset": 5,
     "screenshotExifDataMode": 0,
@@ -159,7 +159,7 @@
     "showBlockInfoHud": true,
     "showBlockInteractionHelp": true,
     "showCoordinateHud": true,
-    "wavingStuff": true,
+    "wavingStuff": false,
     "renderMetaBlocks": false,
     "ambientParticles": true,
     "pauseGameOnLostFocus": false,
@@ -195,13 +195,14 @@
     "renderClouds": true,
     "hasGameServer": false,
     "showMinimapHud": true,
-    "chatdialogvisible": true
+    "chatdialogvisible": true,
+    "noHandbookPause": false
   },
   "floatSettings": {
     "guiScale": 0.75,
     "fontSize": 0.75,
     "lodBias": 0.33,
-    "lodBiasFar": 0.84,
+    "lodBiasFar": 0.75,
     "blockAtlasSubPixelPadding": 0.01,
     "itemAtlasSubPixelPadding": 0.0,
     "gammaLevel": 3.0,
@@ -228,7 +229,8 @@
       "xmini,127.0.0.1,"
     ],
     "disabledMods": [
-      "stepupcontinued@0.0.1"
+      "stepupcontinued@0.0.1",
+      "bigbag@0.1.28"
     ],
     "dialogPositions": [],
     "modPaths": [
