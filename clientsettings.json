@@ -17,7 +17,7 @@
       "OnKeyUp": false
     },
     "ctrl": {
-      "KeyCode": 1,
+      "KeyCode": 3,
       "SecondKeyCode": null,
       "Ctrl": false,
       "Alt": false,
@@ -25,7 +25,7 @@
       "OnKeyUp": false
     },
     "shift": {
-      "KeyCode": 3,
+      "KeyCode": 1,
       "SecondKeyCode": null,
       "Ctrl": false,
       "Alt": false,
@@ -48,10 +48,26 @@
       "Shift": false,
       "OnKeyUp": false
     },
-    "danatweaks:autowalk": {
-      "KeyCode": 60,
+    "sitdown": {
+      "KeyCode": 57,
       "SecondKeyCode": null,
       "Ctrl": false,
+      "Alt": false,
+      "Shift": false,
+      "OnKeyUp": false
+    },
+    "screenshot": {
+      "KeyCode": 21,
+      "SecondKeyCode": null,
+      "Ctrl": false,
+      "Alt": false,
+      "Shift": false,
+      "OnKeyUp": false
+    },
+    "megascreenshot": {
+      "KeyCode": 21,
+      "SecondKeyCode": null,
+      "Ctrl": true,
       "Alt": false,
       "Shift": false,
       "OnKeyUp": false
@@ -67,8 +83,8 @@
       "Y": 591
     },
     "environment": {
-      "X": 16,
-      "Y": 965
+      "X": 1287,
+      "Y": 803
     }
   },
   "stringSettings": {
@@ -88,13 +104,13 @@
     "audioDevice": null,
     "playeruid": "1234567890",
     "playername": "Cheva",
-    "lastSkinSelection": "baseskin:skin5,eyecolor:aquamarine,underwear:breeches,voicetype:tuba,voicepitch:verylow,hairbase:kniaz,hairextra:topknot,facialexpression:kind,mustache:mst-line20-seagull,beard:brd-full01-trimmedfull,haircolor:queenblue"
+    "lastSkinSelection": "baseskin:skin11,eyecolor:opal,underwear:leotard,voicetype:clarinet,voicepitch:verylow,hairbase:mediumlength-bangs,hairextra:tiedback,facialexpression:tired,mustache:mst-walrus05-neat,beard:brd-braid15-triple,haircolor:queenblue"
   },
   "intSettings": {
     "fpHandsFoV": 70,
     "cloudRenderMode": 1,
     "mipmapLevel": 3,
-    "musicFrequency": 0,
+    "musicFrequency": 1,
     "graphicsPresetId": 11,
     "webRequestTimeout": 10,
     "maxAnimatedElements": 230,
@@ -102,11 +118,11 @@
     "archiveLogFileMaxSizeMb": 1024,
     "shadowMapQuality": 0,
     "optimizeRamMode": 1,
-    "ssaoQuality": 0,
-    "viewDistance": 256,
-    "fieldOfView": 68,
-    "maxFps": 60,
-    "particleLevel": 20,
+    "ssaoQuality": 1,
+    "viewDistance": 160,
+    "fieldOfView": 70,
+    "maxFps": 30,
+    "particleLevel": 10,
     "maxDynamicLights": 3,
     "weirdMacOSMouseYOffset": 5,
     "screenshotExifDataMode": 0,
@@ -116,7 +132,7 @@
     "entitySoundLevel": 100,
     "ambientSoundLevel": 100,
     "weatherSoundLevel": 100,
-    "musicLevel": 0,
+    "musicLevel": 32,
     "screenWidth": 1260,
     "screenHeight": 700,
     "gameWindowMode": 1,
@@ -128,7 +144,7 @@
     "maxAsyncCubeParticles": 80000,
     "itemCollectMode": 0,
     "mouseSmoothing": 95,
-    "mouseSensivity": 126,
+    "mouseSensivity": 125,
     "modelDataPoolMaxVertexSize": 500000,
     "modelDataPoolMaxIndexSize": 750000,
     "modelDataPoolMaxParts": 1500,
@@ -146,7 +162,7 @@
   "boolSettings": {
     "selectedBlockOutline": true,
     "showMoreGfxOptions": true,
-    "dynamicColorGrading": true,
+    "dynamicColorGrading": false,
     "multipleInstances": false,
     "showSurvivalHelpDialog": true,
     "showCreativeHelpDialog": true,
@@ -177,7 +193,7 @@
     "testGlExtensions": true,
     "offThreadMipMaps": false,
     "toggleSprint": false,
-    "separateCtrlKeyForMouse": false,
+    "separateCtrlKeyForMouse": true,
     "allowSettingHRTFaudio": true,
     "useHRTFaudio": false,
     "force48khzHRTFaudio": true,
@@ -192,11 +208,10 @@
     "allowSSBOs": true,
     "disableModSafetyCheck": false,
     "forceUdpOverTcp": false,
-    "renderClouds": true,
+    "renderClouds": false,
     "hasGameServer": false,
     "showMinimapHud": true,
-    "chatdialogvisible": true,
-    "noHandbookPause": false
+    "chatdialogvisible": true
   },
   "floatSettings": {
     "guiScale": 0.75,
@@ -220,7 +235,7 @@
     "recordingFrameRate": 30.0,
     "gameTickFrameRate": 30.0,
     "instabilityWavingStrength": 1.0,
-    "ssaa": 0.75,
+    "ssaa": 1.0,
     "megaScreenshotSizeMul": 2.0,
     "minbrightness": 0.0
   },
@@ -228,9 +243,7 @@
     "multiplayerservers": [
       "xmini,127.0.0.1,"
     ],
-    "disabledMods": [
-      "stepupcontinued@0.0.1"
-    ],
+    "disabledMods": [],
     "dialogPositions": [],
     "modPaths": [
       "Mods",
